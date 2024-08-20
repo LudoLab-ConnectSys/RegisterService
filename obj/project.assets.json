@@ -4574,11 +4574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\RegisterService\\RegisterService.csproj",
+      "projectUniqueName": "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\RegisterService\\RegisterService.csproj",
       "projectName": "RegisterService",
-      "projectPath": "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\RegisterService\\RegisterService.csproj",
+      "projectPath": "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\RegisterService\\RegisterService.csproj",
       "packagesPath": "C:\\Users\\ginno\\.nuget\\packages\\",
-      "outputPath": "D:\\Universidad\\Tesis\\Desarrollo\\Backend\\RegisterService\\obj\\",
+      "outputPath": "D:\\Universidad\\Tesis\\Desarrollo\\Todo\\Version05\\RegisterService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
